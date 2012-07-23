@@ -17,6 +17,9 @@
             "homepage": "http://ghita.org"
         }
     ],
+    "suggest": {
+        "suncat/mobile-detect-bundle": "Uses to determine the mobile device"
+    },
     "require": {
         "php": ">=5.3.0"
     },
