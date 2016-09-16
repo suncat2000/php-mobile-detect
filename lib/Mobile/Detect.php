@@ -13,7 +13,9 @@
  * @license    http://www.opensource.org/licenses/mit-license.php The MIT License
  */
 
-class Mobile_Detect {
+namespace MobileDetect\Mobile;
+
+class Detect {
     
     protected $detectionRules;
     protected $userAgent = null;
